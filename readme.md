@@ -1,4 +1,4 @@
-# Webpack config for modern web projects + three.js
+# 2d-platformer
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/) and run the following commands:
